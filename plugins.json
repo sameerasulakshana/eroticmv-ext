@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=eroticmv.com&sz=%size%",
+        "fileHash": "sha256-ecee1062b4a26e7ce73d5760d426d79a174ac0095d46b2cbdbfb553756a8ae54",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sameerasulakshana/eroticmv-ext",
+        "fileSize": 11942,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "eroticmv"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "EroticMV",
+        "description": "Watch softcore erotic adult movies full in HD and free",
+        "url": "https://raw.githubusercontent.com/sameerasulakshana/eroticmv-ext/builds/EroticMV.cs3",
+        "name": "EroticMV"
+    }
+]
