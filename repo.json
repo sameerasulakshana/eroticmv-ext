@@ -1,0 +1,6 @@
+{
+  "name": "EroticMV Extension",
+  "description": "Cloudstream 3 extension for eroticmv.com",
+  "manifestUrl": "https://raw.githubusercontent.com/sameerasulakshana/eroticmv-ext/main/builds/plugins.json",
+  "version": 1
+}
